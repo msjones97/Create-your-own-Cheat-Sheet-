@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    font-weight: 200;
+    font: monospace;
+    font-size: larger;
+}
+
+body {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: hotpink;
+}
+
+table {
+    border:rgb(131, 62, 113)
+}
+
+table.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    color:blueviolet;
+    font-family: monospace;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    color: antiquewhite;
+}
+
+tr {
+    background-color: rgb(131, 62, 113);
+}
+
+h3 {
+    font-size: xx-small;
+}
+
+img {
+    display: inline-block;
+}
